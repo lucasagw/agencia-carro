@@ -1,5 +1,4 @@
 # agencia-carro
-Aplicação que executa comandos em um banco de dados.
 
 <img src="https://i.ibb.co/XCbSqxd/atividade-pooa.jpg" alt="atividade-pooa" border="0">
 
