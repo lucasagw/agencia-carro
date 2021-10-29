@@ -35,4 +35,4 @@ git clone https://github.com/lucasagw/agencia-carro.git
 ```
 Baixar o PostgreSQL 9.5.25: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Instalação e configuração do PostgreSQL no Windows: http://www.bosontreinamentos.com.br/postgresql-banco-dados/instalacao-do-postgresql-no-microsoft-windows/
+Instalação e configuração do PostgreSQL: http://www.bosontreinamentos.com.br/postgresql-banco-dados/instalacao-do-postgresql-no-microsoft-windows/
