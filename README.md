@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/XCbSqxd/atividade-pooa.jpg" alt="atividade-pooa" border="0">
 
-## Diagrams 
+## Diagram 
 
 ### Data Base
 
