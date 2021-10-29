@@ -1,7 +1,6 @@
 package br.ucsal.pooa.concesionaria.model;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -11,14 +10,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
 @Entity
 @Table(name = "carro", schema = "public", uniqueConstraints = { @UniqueConstraint(name = "carro_placa", columnNames = { "car_placa" }) })
-//@SequenceGenerator(name = "seq_car", sequenceName = "sq_car")
-//@Table(name = "carro")
 public class Carro implements Serializable {
 	
 	private static final long serialVersionUID = 1L;

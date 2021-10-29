@@ -10,18 +10,18 @@ public class ConexaoFactory {
 	// java.sql = Connection, Statement, Result
 	// DriveManager
 	public static Connection getConexao() {
-			
-//		 EntityManagerFactory emf = EntityManagerConfig.getEMF();
-//	     EntityManager em = emf.createEntityManager();
-		
-		EntityManagerConfig.getEMF();
-		
+
+		// EntityManagerFactory emf = EntityManagerConfig.getEMF();
+		// EntityManager em = emf.createEntityManager();
+
+		// EntityManagerConfig.getEMF();
+
 		String url = "jdbc:postgresql://localhost:5432/agencia";
 		String user = "postgres";
 		String password = "admin";
-	
+
 		try {
-		
+
 			return DriverManager.getConnection(url, user, password);
 
 		} catch (SQLException e) {

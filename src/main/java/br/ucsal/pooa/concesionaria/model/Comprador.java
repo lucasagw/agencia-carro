@@ -1,27 +1,23 @@
 package br.ucsal.pooa.concesionaria.model;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
 @Entity
-@Table(name = "comprador", schema = "public", uniqueConstraints = { @UniqueConstraint(name = "conprador_cpf", columnNames = { "comp_cpf"}) })
-//@SequenceGenerator(name = "seq_comp", sequenceName = "sq_comp")
+@Table(name = "comprador", schema = "public", uniqueConstraints = { @UniqueConstraint(name = "conprador_cpf", columnNames = { "comp_cpf" }) })
 public class Comprador implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 
 	@Id
 	@Column(name = "comp_id")
-	//@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_comp")	
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
