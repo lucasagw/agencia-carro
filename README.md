@@ -43,6 +43,6 @@ Instalação e configuração do PostgreSQL: http://www.bosontreinamentos.com.br
 [<img src="https://avatars.githubusercontent.com/u/72201119?v=4" width="200px; "/><br><sub><b>Bruna Ribeiro</b></sub>](https://github.com/BrunaRA) |  [<img src="https://avatars.githubusercontent.com/u/93197436?v=4" width="200px;"/><br><sub><b>Caroline Mota</b></sub>](https://github.com/CarolineMotaX) | 	
 :---: | ---
 
-[<img src="https://avatars.githubusercontent.com/u/58379228?v=4" width="200px;"/><br><sub><b>Felipe</b></sub>](https://github.com/felipeProgrammingDesign) | 	 [<img src="https://avatars.githubusercontent.com/u/79553621?s=96&v=4" width="200px;"/><br><sub><b>Lucas Augusto</b></sub>](https://github.com/lucasagw) |
+[<img src="https://avatars.githubusercontent.com/u/58379228?v=4" width="200px;"/><br><sub><b>Felipe Augusto</b></sub>](https://github.com/felipeProgrammingDesign) | 	 [<img src="https://avatars.githubusercontent.com/u/79553621?s=96&v=4" width="200px;"/><br><sub><b>Lucas Augusto</b></sub>](https://github.com/lucasagw) |
 :---: | ---
 [<img src="https://avatars.githubusercontent.com/u/80589962?v=4" width="200px;"/><br><sub><b>Renata Emily</b></sub>](https://github.com/RenataEmily) | 	 [<img src="https://avatars.githubusercontent.com/u/554178?v=4" width="200px;"/><br><sub><b>Mario Jorge</b></sub>](https://github.com/mariojp) |
